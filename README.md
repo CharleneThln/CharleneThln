@@ -2,6 +2,7 @@ Hello world ! 👋
 
 <!--
 **CharleneThln/CharleneThln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<hr>
 
 Je suis Charlène, 32 ans. 
 - 🎓 Bac scientifique mention TB, cursus Lettres, politiques culturelles, info-com.

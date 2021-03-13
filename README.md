@@ -16,10 +16,11 @@ Mes projets :
 - 👉 EN RECHERCHE DE STAGE COURT : période juin/juillet 2021
 - 🌄 Septembre 2021 : poursuite d'étude en alternance sur 3 ans avec le <a href='https://www.epitech.eu/msc-pro/'>MSc Pro d'Epitechw</a>.
 
+============================================
 Me contacter : 
-- 📧 par mail : charlene.thoulon@epitech.eu
+- 📧 par email : charlene.thoulon@epitech.eu
 - 🗃️ par linkedin : <a href='https://www.linkedin.com/in/charlenethoulon/'>linkedin.com/in/charlenethoulon</a>
- 
+============================================
 
 New skills loading :
 

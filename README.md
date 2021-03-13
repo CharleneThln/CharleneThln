@@ -4,7 +4,7 @@ Hello world ! 👋
 **CharleneThln/CharleneThln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Je suis Charlène, 32 ans. 
-- 🎓 Bac scientifique (mention TB), cursus Lettres, politiques culturelles, info-com.
+- 🎓 Bac scientifique mention TB, cursus Lettres, politiques culturelles, info-com.
 - 🤝 J'ai été chargée de communication, chef de projets événementiels et coordinatrice de formations pour adultes.  
 - ⚡ En 2020, je décide de changer de vie professionnelle.
 - 🤩 Ce qui m'anime : l'envie d'apprendre en permanence et la volonté d'intégrer une équipe dynamique !

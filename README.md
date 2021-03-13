@@ -10,6 +10,7 @@ Je suis Charlène, 32 ans.
 - 🤩 Ce qui m'anime : l'envie d'apprendre en permanence et la volonté de rejoindre une équipe dynamique !
 - 📍 Localisation : Aix-en-Provence / Marseille
 
+Mes projets : 
 - 🌱 Premier semestre 2021 : j'intègre la Coding Academy by Epitech pour 4,5 mois de formation intensive.
 - 💻 Objectif : décrocher un titre d'intégrateur-développeur web (niveau bac+2) 
 - 👉 EN RECHERCHE DE STAGE COURT : période juin/juillet 2021

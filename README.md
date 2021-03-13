@@ -23,7 +23,7 @@ Me contacter :
 - 📧 par email : charlene.thoulon@epitech.eu
 - 🗃️ par linkedin : <a href='https://www.linkedin.com/in/charlenethoulon/'>linkedin.com/in/charlenethoulon</a>
 
-<hr>
+<!--<hr>
 
 <!--New skills loading :
 

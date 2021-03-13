@@ -5,7 +5,7 @@ Hello world ! 👋
 <hr>
 
 Je suis Charlène, 32 ans. 
-- 🎓 Bac scientifique mention TB, cursus Lettres, politiques culturelles, info-com.
+- 🎓 Bac Scientifique mention TB, cursus Lettres, politiques culturelles, info-com.
 - 🤝 J'ai été chargée de communication, chef de projets événementiels et coordinatrice de formations pour adultes.  
 - ⚡ En 2020, je décide de changer de vie professionnelle.
 - 🤩 Ce qui m'anime : l'envie d'apprendre en permanence et la volonté de rejoindre une équipe dynamique !

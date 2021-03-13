@@ -7,16 +7,17 @@ Je suis Charlène, 32 ans.
 - 🎓 Bac scientifique mention TB, cursus Lettres, politiques culturelles, info-com.
 - 🤝 J'ai été chargée de communication, chef de projets événementiels et coordinatrice de formations pour adultes.  
 - ⚡ En 2020, je décide de changer de vie professionnelle.
-- 🤩 Ce qui m'anime : l'envie d'apprendre en permanence et la volonté d'intégrer une équipe dynamique !
+- 🤩 Ce qui m'anime : l'envie d'apprendre en permanence et la volonté de rejoindre une équipe dynamique !
+- 📍 Localisation : Aix-en-Provence / Marseille
 
 - 🌱 Premier semestre 2021 : j'intègre la Coding Academy by Epitech pour 4,5 mois de formation intensive.
 - 💻 Objectif : décrocher un titre d'intégrateur-développeur web (niveau bac+2) 
 - 👉 EN RECHERCHE DE STAGE COURT : période juin/juillet 2021
-- 🌄 Septembre 2021 : poursuite d'étude avec un parcours en alternance sur 3 ans.
+- 🌄 Septembre 2021 : poursuite d'étude en alternance sur 3 ans avec le <a href='https://www.epitech.eu/msc-pro/'>MSc Pro d'Epitechw</a>.
 
 Me contacter : 
 - 📧 par mail : charlene.thoulon@epitech.eu
-- 🗃️ par linkedin : linkedin.com/in/charlenethoulon
+- 🗃️ par linkedin : <a href='https://www.linkedin.com/in/charlenethoulon/'>linkedin.com/in/charlenethoulon</a>
  
 
 New skills loading :

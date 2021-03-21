@@ -4,14 +4,15 @@ Hello world ! 👋
 **CharleneThln/CharleneThln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <hr>
 
-Je suis Charlène, 32 ans, étudiante chez Epitech Marseille.
+Je suis Charlène, 32 ans, étudiante chez Epitech Marseille.<br/>
 Depuis plusieurs mois, je construis pas à pas ma reconversion professionnelle vers le métier de développeur full-stack, avec en ligne de mire des missions de data analyst.
 
 Mes projets : 
 - 🌱 Premier semestre 2021 : j'intègre la Coding Academy by Epitech pour 4,5 mois de formation intensive.
 - 💻 Objectif : décrocher un titre d'intégrateur-développeur web (niveau bac+2) 
 - 👉 EN RECHERCHE DE STAGE COURT : période juin/juillet 2021
-- 🌄 Septembre 2021 : poursuite d'étude en alternance sur 3 ans avec le <a href='https://www.epitech.eu/msc-pro/'>MSc Pro d'Epitech</a>.
+- 🌄 Septembre 2021 : poursuite d'étude en alternance sur 3 ans avec le <a href='https://www.epitech.eu/msc-pro/'>MSc Pro d'Epitech</a>.<br/>
+
 
 Mon profil en quelques mots :
 - 🎓 Bac Scientifique mention TB, cursus Lettres, politiques culturelles, info-com.
